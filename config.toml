@@ -117,9 +117,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/dapr-cn/dapr-cn-site-cases"
+github_repo = "https://github.com/dapr-cn/dapr-cn-site-case"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/dapr-cn/dapr-cn-site-cases"
+github_project_repo = "https://github.com/dapr-cn/dapr-cn-site-case"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
